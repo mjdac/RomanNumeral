@@ -1,0 +1,14 @@
+C:\Users\Mark Cook\source\repos\RomanNumeral\RomanNumeral\bin\Debug\net8.0\RomanNumeral.exe
+C:\Users\Mark Cook\source\repos\RomanNumeral\RomanNumeral\bin\Debug\net8.0\RomanNumeral.deps.json
+C:\Users\Mark Cook\source\repos\RomanNumeral\RomanNumeral\bin\Debug\net8.0\RomanNumeral.runtimeconfig.json
+C:\Users\Mark Cook\source\repos\RomanNumeral\RomanNumeral\bin\Debug\net8.0\RomanNumeral.dll
+C:\Users\Mark Cook\source\repos\RomanNumeral\RomanNumeral\bin\Debug\net8.0\RomanNumeral.pdb
+C:\Users\Mark Cook\source\repos\RomanNumeral\RomanNumeral\obj\Debug\net8.0\RomanNumeral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark Cook\source\repos\RomanNumeral\RomanNumeral\obj\Debug\net8.0\RomanNumeral.AssemblyInfoInputs.cache
+C:\Users\Mark Cook\source\repos\RomanNumeral\RomanNumeral\obj\Debug\net8.0\RomanNumeral.AssemblyInfo.cs
+C:\Users\Mark Cook\source\repos\RomanNumeral\RomanNumeral\obj\Debug\net8.0\RomanNumeral.csproj.CoreCompileInputs.cache
+C:\Users\Mark Cook\source\repos\RomanNumeral\RomanNumeral\obj\Debug\net8.0\RomanNumeral.dll
+C:\Users\Mark Cook\source\repos\RomanNumeral\RomanNumeral\obj\Debug\net8.0\refint\RomanNumeral.dll
+C:\Users\Mark Cook\source\repos\RomanNumeral\RomanNumeral\obj\Debug\net8.0\RomanNumeral.pdb
+C:\Users\Mark Cook\source\repos\RomanNumeral\RomanNumeral\obj\Debug\net8.0\RomanNumeral.genruntimeconfig.cache
+C:\Users\Mark Cook\source\repos\RomanNumeral\RomanNumeral\obj\Debug\net8.0\ref\RomanNumeral.dll
